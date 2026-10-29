@@ -32,11 +32,11 @@ I build software at the intersection of **code and music**: audio plugins in C++
 
 ## 🚀 Featured Projects
 
-| 🎛️ LazerRoom (LR-01) | 🎵 SendMyBeat |
+| 🎛️ LazerRoom (LR-01) | [🎵 SendMyBeat](https://github.com/jamesg00/SendMyBeat2) |
 |---|---|
 | A **VST plugin** built with **JUCE / C++**, with a custom UI and DSP-focused architecture.<br><br>`C++` `JUCE` `VST3` `DSP` | A **beat-selling web platform** for producers, with a Python/FastAPI backend deployed on Ubuntu/AWS.<br><br>`Python` `FastAPI` `JavaScript` `AWS`<br><br>[![GitHub](https://img.shields.io/badge/GitHub-View-001a00?style=flat-square&logo=github&logoColor=00ff41&labelColor=000000)](https://github.com/jamesg00/SendMyBeat2) |
-| ✂️ Clippr | 💻 ScratchCLI |
-| A desktop **YouTube clip downloader** powered by `yt-dlp`, with a redesigned UI.<br><br>`Python` `yt-dlp` `Desktop UI` | A **CLI-first local coding scratchpad** for Windows: notes, editor, shell, and optional AI. No account required.<br><br>`TypeScript` `CLI`<br><br>[![GitHub](https://img.shields.io/badge/GitHub-View-001a00?style=flat-square&logo=github&logoColor=00ff41&labelColor=000000)](https://github.com/jamesg00/ScratchCLI) |
+| [✂️ Clippr](https://github.com/jamesg00/Clippr) | [💻 ScratchCLI](https://github.com/jamesg00/ScratchCLI) |
+| A desktop **YouTube clip downloader** powered by `yt-dlp`, with a redesigned UI.<br><br>`Python` `yt-dlp` `Desktop UI`<br><br>[![GitHub](https://img.shields.io/badge/GitHub-View-001a00?style=flat-square&logo=github&logoColor=00ff41&labelColor=000000)](https://github.com/jamesg00/Clippr) | A **CLI-first local coding scratchpad** for Windows: notes, editor, shell, and optional AI. No account required.<br><br>`TypeScript` `CLI`<br><br>[![GitHub](https://img.shields.io/badge/GitHub-View-001a00?style=flat-square&logo=github&logoColor=00ff41&labelColor=000000)](https://github.com/jamesg00/ScratchCLI) |
 
 **Also on the bench**
 
